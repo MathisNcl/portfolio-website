@@ -1,62 +1,138 @@
 {
-    "intro": "Apprendre",
+    "intro": "Dans le monde de l'informatique et surtout de la data, il faut apprendre en permanence. Cette page liste toutes les technos que je maitrise pour mener à bien mon travail.",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Langages & Base de donnéess",
             "items" : [
      
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
                 {
                     "icon": "images/skills/python.png",
                     "title": "Python"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/sas.png",
+                    "title": "SAS"
+                },
+                {
+                    "icon": "images/skills/sql.png",
+                    "title": "SQL"
+                },
+                {
+                    "icon": "images/skills/postgres.png",
+                    "title": "Postgres"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Frameworks & Modules",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/pytorch.png",
+                    "title": "Pytorch"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/lightning.png",
+                    "title": "Pytorch Lightning"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/tensorflow.png",
+                    "title": "Tensorflow"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/opencv.png",
+                    "title": "OpenCV"
+                },
+                {
+                    "icon": "images/skills/mlflow.png",
+                    "title": "MLFlow"
+                },
+                {
+                    "icon": "images/skills/pytest.png",
+                    "title": "Pytest"
+                },
+                {
+                    "icon": "images/skills/airflow.png",
+                    "title": "Airflow"
+                },
+                {
+                    "icon": "images/skills/fastapi.png",
+                    "title": "Fastapi"
+                },
+                {
+                    "icon": "images/skills/scikitlearn.png",
+                    "title": "Scikit learn"
+                },
+                {
+                    "icon": "images/skills/sqlalchemy.png",
+                    "title": "SQLAlchemy"
+                },
+                {
+                    "icon": "images/skills/pyspark.png",
+                    "title": "PySpark"
+                },
+                {
+                    "icon": "images/skills/kafka.png",
+                    "title": "Kafka"
+                },
+                {
+                    "icon": "images/skills/dash.png",
+                    "title": "Python Dash and Plotly"
+                },
+                {
+                    "icon": "images/skills/streamlit.png",
+                    "title": "Streamlit"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "Tools & Plateformes",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
+                    "icon": "images/skills/jupyter.png",
+                    "title": "Jupyter"
+                },
+                {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/terraform.png",
+                    "title": "Terraform"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/gcp.png",
+                    "title": "Google Cloud Platform"
+                },
+                {
+                    "icon": "images/skills/jenkins.png",
+                    "title": "Jenkins"
+                },
+                {
+                    "icon": "images/skills/openshift.png",
+                    "title": "Openshift"
+                },
+                {
+                    "icon": "images/skills/kubernetes.png",
+                    "title": "Kubernetes"
+                },
+                {
+                    "icon": "images/skills/jira.svg",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/office.png",
+                    "title": "Suite Office"
                 }
             ]
     }
