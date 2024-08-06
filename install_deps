@@ -1,0 +1,10 @@
+#/bin/bash
+
+npm install --legacy-peer-deps
+if [ $? -ne 0 ]; then
+    echo "Installation failed."
+    npm audit fix --force 
+fi
+
+echo "fix force again"
+npm audit fix --force 
