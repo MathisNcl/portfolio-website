@@ -1,7 +1,7 @@
 {
     "logo" : {
         "source": "images/logo.png",
-        "height" : 45,
+        "height" : 50,
         "width" : 50
     },
     "sections": [
@@ -10,27 +10,27 @@
             "href": "/"
         },
         {
-            "title": "About",
+            "title": "A propos",
             "href": "/about"
         },
         {
-            "title": "Skills",
+            "title": "Compétences",
             "href": "/skills"
         },
         {
-            "title": "Education",
+            "title": "Formation",
             "href": "/education"
         },
         {
-            "title": "Experience",
+            "title": "Expérience",
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "title": "Projets perso",
             "href": "/projects"
         },
         {
-            "title": "Resume",
+            "title": "Dossier de compétence",
             "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
             "type": "link"
         }

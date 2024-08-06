@@ -1,19 +1,82 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Mai 2024",
+            "cardTitle": "PySpark pour Data Engineer et Data Scientist avec 2 projets",
+            "cardSubtitle":"UDEMY",
+            "cardDetailedText": "",
+            "url":"https://www.udemy.com/certificate/UC-24af5669-5054-4332-940c-caaf1897221e/",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/udemy.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Avril 2024",
+            "cardTitle": "Apache Airflow: The Hands-On Guide",
+            "cardSubtitle":"UDEMY",
+            "cardDetailedText": "",
+            "url": "https://www.udemy.com/certificate/UC-ee4c09a4-68d8-4c77-a46f-ecb0dda5bcb7/",
+            "icon" : {
+                "src": "images/education/udemy.png"
+            }
+        },
+        {
+            "title": "Février 2023",
+            "cardTitle": "GitHub Actions : The Complete Guide",
+            "cardSubtitle":"UDEMY",
+            "cardDetailedText": "",
+            "url":"https://www.udemy.com/certificate/UC-ac89f22d-726d-489f-a1b1-64257060829e/",
+            "icon" : {
+                "src": "images/education/udemy.png"
+            }
+        },
+        {
+            "title": "Mai 2022",
+            "cardTitle": "Dataiku Advanced Designer",
+            "cardSubtitle":"Dataiku",
+            "cardDetailedText": "",
+            "url":"https://verify.skilljar.com/c/qf92q9b8h6fv",
+            "icon" : {
+                "src": "images/education/dataiku.png"
+            }
+        },
+        {
+            "title": "Avril 2022",
+            "cardTitle": "Dataiku Core Designer",
+            "cardSubtitle":"Dataiku",
+            "cardDetailedText": "",
+            "url":"https://verify.skilljar.com/c/7m8w3tagq3hq",
+            "icon" : {
+                "src": "images/education/dataiku.png"
+            }
+        },
+        {
+            "title": "Août 2020",
+            "cardTitle": "Interactive Python Dashboards with Plotly and Dash",
+            "cardSubtitle":"UDEMY",
+            "cardDetailedText": "",
+            "url":"https://www.udemy.com/certificate/UC-434d5f6a-e506-429d-857b-c63d2db949b5/",
+            "icon" : {
+                "src": "images/education/udemy.png"
+            }
+        },
+        {
+            "title": "Août 2018 - Octobre 2021",
+            "cardTitle": "Diplôme Ingénieur en Statistique, spécialisation génie statistique",
+            "cardSubtitle":"Ecole Nationale de la Statistique et de l'Analyse de l'Information (ENSAI)",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/ensai.png"
+            }
+        },
+        {
+            "title": "Septembre 2016 - Juin 2018",
+            "cardTitle": "DUT STatistiques et Informatique Décisionnelle (STID)",
+            "cardSubtitle":"IUT de Vannes",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/iut.png"
+            }
         }
     ]
 }

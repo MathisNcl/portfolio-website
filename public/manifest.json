@@ -1,11 +1,11 @@
 {
-  "short_name": "Mayank Agarwal",
-  "name": "Mayank Agarwal - Portfolio",
+  "short_name": "Mathis Nicoli",
+  "name": "Mathis Nicoli - Portfolio",
   "icons": [
     {
       "src": "images/logo.png",
       "type": "image/png",
-      "sizes": "425x225"
+      "sizes": "300x300"
     }
   ],
   "start_url": ".",

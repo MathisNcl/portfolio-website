@@ -2,15 +2,19 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/mathis-nicoli-376748153/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/MathisNcl"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:mathisnicoli.pro@gmail.com"
+        },
+        {
+            "network" : "whatsapp",
+            "href": "tel:0778207528"
         }
     ]
 }
