@@ -65,6 +65,9 @@
   justify-content: center;
   align-items: center;
 }
+.section-content-container a {
+  color: grey;
+}
 
 .Typewriter {
   display: inline-block;

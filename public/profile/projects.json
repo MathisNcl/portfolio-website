@@ -1,17 +1,113 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Nicoli Consulting",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/basketball-trainer.gif",
+            "title": "Basketball trainer - Improve your dribble",
+            "bodyText": "- Web app pour améliorer son drible via un mini jeu par caméra, 30 secondes pour toucher le plus de points possibles tout en dribblant\n- Détection des mains\n- **Paramètres de jeu** : vitesse d'apparation des points, obligation de toucher avec la main du même côté, temps\n- Profil et suivi des parties",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/MathisNcl/basketball_trainer"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Python Dash",
+                "Docker",
+                "FastAPI", 
+                "Postgres", 
+                "Pytest"
+            ]
+        },
+        {
+            "image" : "images/projects/kikichante.png",
+            "title": "Kikichante - Bob marley",
+            "bodyText": "- Modèle Bert entrainé sur les paroles de Bob Marley\n- Ecris une phrase en anglais et découvre si Bob Marley aurait pu le chanter",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MathisNcl/Kikichante"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://kikichante.streamlit.app/"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Hugging Face",
+                "Pytorch",
+                "Transformers",
+                "Streamlit", 
+                "Pytest"
+            ]
+        },
+        {
+            "image" : "images/projects/lost-cities.gif",
+            "title": "Lost Cities",
+            "bodyText": "- Implémentation du jeu de société Lost Cities\n- Possibilité de jouer en 1 vs 1 ou 1 vs ordinateur (règles simples)\n- Jeu avec ou sans interface graphique",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MathisNcl/lost_cities"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Pygame",
+                "Pydantic",
+                "Pytest"
+            ]
+        },
+        {
+            "image" : "images/projects/image-banker.gif",
+            "title": "ImageBanker - Object Collector & Saver",
+            "bodyText": "- Webapp pour la détection d'objets et l'extraction sans fond",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MathisNcl/image-banker/tree/master"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Streamlit",
+                "Yolo"
+            ]
+        },
+        {
+            "image" : "images/projects/brawlstar.png",
+            "title": "Brawlstar Dashboard",
+            "bodyText": "- Dashboard minimaliste des résultats des matchs du club DDS sur le jeu mobile Brawlstar\n- Aspiration des données fournies\n- Visualisation simple par joueur, personnage, map, meilleur duo/trio",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MathisNcl/DDS-club-BS"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://ddsclub.pythonanywhere.com/"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Python Dash", 
+                "Plotly", 
+                "Pandas"
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Nicoli Consulting portfolio",
+            "bodyText": "- Portfolio Freelance",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MathisNcl/portfolio-website"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://nicoli-consulting-cs4p0q0rn-mathisncls-projects.vercel.app/"
                 }
             ],
             "tags" : [
@@ -19,132 +115,7 @@
                 "Portfolio",
                 "JavaScript"
             ]
-        },
-        {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
-            ]
         }
+        
     ]
 }
