@@ -2,7 +2,7 @@
     "projects" : [
         {
             "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
+            "title": "Nicoli Consulting",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {

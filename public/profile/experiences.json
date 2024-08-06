@@ -1,33 +1,99 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Data Scientist",
+            "subtitle": "SETEC Energie Environnement",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "**POC Détection et dénombrement de la mégafaune marine par vue aérienne (400m)**",
+                "Recueil du besoin, rédaction du cahier des charges",
+                "Entrainement d'un premier modèle de classification binaire pour la présence d'oiseau et stratégie d'agrégation des résultats pour gain de temps métier",
+                "Entrainement d'un second modèle de dénombrement des oiseaux type YOLO, RT-DETR",
+                "Documentation des choix scientifiques, benchmark des stratégies et budgétisation",
+                "*Python, Pytorch, Pytorch Lightning, Gitlab, MLFlow, AWS EC2 et S3, Terraform*"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "05/2024 – Present"
+        },
+        {
+            "title": "Machine Learning Engineer Freelance",
+            "subtitle": "RAKAM",
+            "workType": "Freelance",
+            "workDescription": [
+                "**Mise en place d’un framework de fine tuning de LLM basé sur une approche QLoRA**",
+                "Récolte des données textuelles, nettoyage et création d’un dataset d’entrainement",
+                "Conception et implémentation d’une architecture généraliste",
+                "Entrainement d’adapteur LORA pour Mistral",
+                "Mise en place du monitoring et versionning des modèles via MLFlow hébergé sur AWS",
+                "*Python, Pytorch, Docker, AWS, MLFlow, Huggingface, Gitlab*"
+            ],
+            "dateText": "04/2024 – 05/2024"
+        },
+        {
+            "title": "Data Scientist",
+            "subtitle": "MAIF",
+            "workType": "Consultant Full-time",
+            "workDescription": [
+                "**Équipe NLP - Recette, Test et Débogage de la Refonte de Melusine**",
+                "Refonte du framework de traitement des mails Mélusine pour prioriser, clôturer et décrire les flux aux gestionnaires. Amélioration continue de Mélusine avec l’ajout de nouveaux cas d’usages récoltés avec le métier et optimisation des traitements dans un écosystème Kafka et FastAPI",
+                "**Équipe de Computer Vision – Industrialisation de la détection de fraude documentaire et KYC**",
+                "Modèle d'extraction d’informations factures et application de règles métiers pour détecter les factures suspicieuses. Industrialisation de la solution en fil de l'eau via Kafka et création d'une API FastApi pour communiquer avec une IHM métier",
+                "Entrainement d'un modèle de KYC sur carte d'identité ancienne et nouvelle génération",
+                "*Python, GitHub, OpenCV, Jenkins, PostgreSQL, SQLAlchemy, Kafka, OpenShift, Docker, tests unitaires et d'intégration, Locust, alembic, Pytorch, Kubernetes*"
+            ],
+            "dateText": "09/2022 – 03/2024"
+        },
+        {
+            "title": "Data Scientist",
+            "subtitle": "OSAC",
+            "workType": "Consultant Full-time",
+            "workDescription": [
+                "**Création d’un outil de pilotage Risk Based Oversight pour la mise en place de plans d'inspection intelligents**",
+                "Recueil du besoin, rédaction des spécifications",
+                "Livraison et formation métier sur 3 dashboards",
+                "*SAS, SAS VA, Macro SAS, Python et Python Dash*"
+            ],
+            "dateText": "03/2022 – 09/2022"
+        },
+        {
+            "title": "Data Scientist",
+            "subtitle": "SixFoisSept",
+            "workType": "Full-time",
+            "workDescription": [
+                "Consultant ESN",
+                "Amélioration continue de la solution LeCadran, observatoire des territoires",
+                "Exploration statistique sur les résultats présidentiels en fonction des scores d’attractivités des intercommunalités publiée dans L’Express"
+            ],
+            "dateText": "10/2022 – 03/2024"
+        },
+        {
+            "title": "Data Scientist",
+            "subtitle": "SixFoisSept",
+            "workType": "Stagiaire",
+            "workDescription": [
+                "**Création d’une IA pour l’arbitrage d’un mini jeu de judo en temps réel via caméra**",
+                "*TensorFlow, OpenCV, Python, Deep learning, EC2 AWS*"
+            ],
+            "dateText": "04/2021 – 10/2021"
+        },
+        {
+            "title": "Big data",
+            "subtitle": "SixFoisSept",
+            "workType": "Stagiaire",
+            "workDescription": [
+                "**Création de la webapp Le Cadran permettant de quantifier l'attractivité des intercommunalités**",
+                "*R, Python, Dash*"
+            ],
+            "dateText": "06/2020 – 09/2020"
+        },
+        {
+            "title": "Méthodologue statistique",
+            "subtitle": "Statistiques Canada",
+            "workType": "Stagiaire",
+            "workDescription": [
+                "**Amélioration de l’enquête financière trimestrielle par analyse de stratégies de sondage stratifié**",
+                "*SAS, SQL*"
+            ],
+            "dateText": "04/2018 – 07/2018"
         }
     ]
 }
