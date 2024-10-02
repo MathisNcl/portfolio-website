@@ -127,6 +127,10 @@
                     "title": "Kubernetes"
                 },
                 {
+                    "icon": "images/skills/dataiku.png",
+                    "title": "Dataiku"
+                },
+                {
                     "icon": "images/skills/jira.svg",
                     "title": "Jira"
                 },

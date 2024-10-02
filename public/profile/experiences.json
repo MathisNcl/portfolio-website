@@ -1,7 +1,22 @@
 {
     "experiences": [
         {
-            "title": "Data Scientist",
+            "title": "Expert IA",
+            "subtitle": "Groupe Beaumanoir",
+            "workType": "Freelance",
+            "workDescription": [
+                "**Génération automatique de descriptions via LLM pour les plateformes de e-commerce**",
+                "Recueil du besoin, cadrage et gestion de projet",
+                "Création et extraction des informations pertinentes pour les prompts",
+                "Génération de description via call API OpenAI, prompts personnalisés utilisant les caractéristiques et les images",
+                "Génération des traductions dans 5 langues",
+                "Mise en production pour 4 sites de e-commerce",
+                "*Dataiku, Python, SQL, Snowflake*"
+            ],
+            "dateText": "09/2024 – en cours"
+        },
+        {
+            "title": "Data Scientist/Machine Learning Engineer",
             "subtitle": "SETEC Energie Environnement",
             "workType": "Freelance",
             "workDescription": [
@@ -12,7 +27,7 @@
                 "Documentation des choix scientifiques, benchmark des stratégies et budgétisation",
                 "*Python, Pytorch, Pytorch Lightning, Gitlab, MLFlow, AWS EC2 et S3, Terraform*"
             ],
-            "dateText": "07/2024 – Present"
+            "dateText": "07/2024 – 09/2024"
         },
         {
             "title": "Machine Learning Engineer Freelance",
