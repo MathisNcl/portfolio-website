@@ -143,6 +143,10 @@ section.timeline-card-content div.card-description > p {
   .navbar__link:hover::after {
     width: 0;
   }
+
+  .profile-image {
+    max-width: 15em;
+  }
 }
 
 .header {
@@ -150,4 +154,3 @@ section.timeline-card-content div.card-description > p {
   font-weight: bold;
   margin-bottom: 25px;
 }
-
