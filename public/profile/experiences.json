@@ -1,11 +1,25 @@
 {
     "experiences": [
         {
+            "title": "Data Scientist",
+            "subtitle": "MAIF",
+            "workType": "Freelance",
+            "workDescription": [
+                "**Recherche de similarités documentaire pour la lutte contre la fraude**",
+                "Mise en place du soclet de recherche de similarité documentaire",
+                "Calcul de similarités via hash, hash perceptuels et vectorisation d'images",
+                "Industrialisation de la détection d'anomalies",
+                "*Python, embedding models, computer vision, Kafka, FastAPI, OpenShift, Jenkins*"
+            ],
+            "dateText": "02/2025 – 06/2025"
+        },
+        {
             "title": "Expert IA",
             "subtitle": "Groupe Beaumanoir",
             "workType": "Freelance",
             "workDescription": [
                 "**Génération automatique de descriptions via LLM pour les plateformes de e-commerce**",
+                "Prix d'une description divisé par 40",
                 "Recueil du besoin, cadrage et gestion de projet",
                 "Création et extraction des informations pertinentes pour les prompts",
                 "Génération de description via call API OpenAI, prompts personnalisés utilisant les caractéristiques et les images",
