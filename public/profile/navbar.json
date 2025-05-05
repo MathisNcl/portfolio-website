@@ -1,8 +1,8 @@
 {
-    "logo" : {
+    "logo": {
         "source": "images/logo.png",
-        "height" : 50,
-        "width" : 50
+        "height": 50,
+        "width": 50
     },
     "sections": [
         {
@@ -31,9 +31,8 @@
         },
         {
             "title": "Dossier technique",
-            "href": "https://drive.google.com/file/d/1NzPNE7KZ8yz82HOUSvdEg9PnV4umkeiF/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1IBHHfgl6KeMcp4idoIYPrlhHd4wF0R1R/view?usp=sharing",
             "type": "link"
         }
     ]
-
 }
