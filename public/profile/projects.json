@@ -1,7 +1,20 @@
 {
-    "projects" : [
+    "projects": [
         {
-            "image" : "images/projects/basketball-trainer.gif",
+            "image": "images/projects/f1.gif",
+            "title": "F1 Fantasy League",
+            "bodyText": "- Application web de fantasy sport sur la saison F1 2026 entre amis\n- Les joueurs choisissent chaque week-end 2 pilotes, 1 écurie et 1 stratégie pour marquer des points\n - Points calculés sur les vrais résultats de course\n- Coups fourrés et gestion de la fatigue des pilotes",
+            "links": [],
+            "tags": [
+                "Next.js 16 (App Router, TypeScript)",
+                "Tailwind CSS v4",
+                "Prisma v6 + PostgreSQL",
+                "NextAuth.js v5",
+                "Nodemailer (Gmail)"
+            ]
+        },
+        {
+            "image": "images/projects/basketball-trainer.gif",
             "title": "Basketball trainer - Improve your dribble",
             "bodyText": "- Web app pour améliorer son drible via un mini jeu par caméra, 30 secondes pour toucher le plus de points possibles tout en dribblant\n- Détection des mains\n- **Paramètres de jeu** : vitesse d'apparation des points, obligation de toucher avec la main du même côté, temps\n- Profil et suivi des parties",
             "links": [
@@ -10,17 +23,17 @@
                     "href": "https://github.com/MathisNcl/basketball_trainer"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Python",
                 "Python Dash",
                 "Docker",
-                "FastAPI", 
-                "Postgres", 
+                "FastAPI",
+                "Postgres",
                 "Pytest"
             ]
         },
         {
-            "image" : "images/projects/kikichante.png",
+            "image": "images/projects/kikichante.png",
             "title": "Kikichante - Bob marley",
             "bodyText": "- Modèle Bert entrainé sur les paroles de Bob Marley\n- Ecris une phrase en anglais et découvre si Bob Marley aurait pu le chanter",
             "links": [
@@ -33,17 +46,17 @@
                     "href": "https://kikichante.streamlit.app/"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Python",
                 "Hugging Face",
                 "Pytorch",
                 "Transformers",
-                "Streamlit", 
+                "Streamlit",
                 "Pytest"
             ]
         },
         {
-            "image" : "images/projects/lost-cities.gif",
+            "image": "images/projects/lost-cities.gif",
             "title": "Lost Cities",
             "bodyText": "- Implémentation du jeu de société Lost Cities\n- Possibilité de jouer en 1 vs 1 ou 1 vs ordinateur (règles simples)\n- Jeu avec ou sans interface graphique",
             "links": [
@@ -52,7 +65,7 @@
                     "href": "https://github.com/MathisNcl/lost_cities"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Python",
                 "Pygame",
                 "Pydantic",
@@ -60,7 +73,7 @@
             ]
         },
         {
-            "image" : "images/projects/image-banker.gif",
+            "image": "images/projects/image-banker.gif",
             "title": "ImageBanker - Object Collector & Saver",
             "bodyText": "- Webapp pour la détection d'objets et l'extraction sans fond",
             "links": [
@@ -69,14 +82,14 @@
                     "href": "https://github.com/MathisNcl/image-banker/tree/master"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Python",
                 "Streamlit",
                 "Yolo"
             ]
         },
         {
-            "image" : "images/projects/brawlstar.png",
+            "image": "images/projects/brawlstar.png",
             "title": "Brawlstar Dashboard",
             "bodyText": "- Dashboard minimaliste des résultats des matchs du club DDS sur le jeu mobile Brawlstar\n- Aspiration des données fournies\n- Visualisation simple par joueur, personnage, map, meilleur duo/trio",
             "links": [
@@ -89,15 +102,15 @@
                     "href": "https://ddsclub.pythonanywhere.com/"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Python",
-                "Python Dash", 
-                "Plotly", 
+                "Python Dash",
+                "Plotly",
                 "Pandas"
             ]
         },
         {
-            "image" : "images/projects/portfolio.png",
+            "image": "images/projects/portfolio.png",
             "title": "Nicoli Consulting portfolio",
             "bodyText": "- Portfolio Freelance",
             "links": [
@@ -110,12 +123,11 @@
                     "href": "https://nicoli-consulting-cs4p0q0rn-mathisncls-projects.vercel.app/"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "React",
                 "Portfolio",
                 "JavaScript"
             ]
         }
-        
     ]
 }

@@ -2,6 +2,17 @@
     "experiences": [
         {
             "title": "Data Scientist",
+            "subtitle": "FranceTravail",
+            "workType": "Freelance",
+            "workDescription": [
+                "**POC - Importation de document pour remplissage de formulaire d'offre d'emploi**",
+                "**Calcul de la qualité des offres d'emploi**",
+                "*Python, Docling, OCR, FastAPI, LLM, Machine Learning, Concourse,*"
+            ],
+            "dateText": "10/2025 – aujourd'hui"
+        },
+        {
+            "title": "Data Scientist",
             "subtitle": "MAIF",
             "workType": "Freelance",
             "workDescription": [
